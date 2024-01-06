@@ -34,13 +34,15 @@ Passionate developer exploring the intersection of code and creativity.
 
 <br>
 <br>
+
 #  🔭 I’m currently working on ...
 
 - MERN e-commerce app. [See project](https://github.com/LuciaLeitao/MERNlucia)
   
 <br>
 <br>
-# 🌱 I’m currently learning ...
+
+#  🌱 I’m currently learning ...
 - <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -57,6 +59,7 @@ Passionate developer exploring the intersection of code and creativity.
 
 <br>
 <br>
+
 #  📫 How to reach me: 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucia-leitao/" target="_blank">
