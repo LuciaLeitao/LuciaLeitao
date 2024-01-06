@@ -1,6 +1,5 @@
 ![Hi there! I am Lúcia!](header.png)
 
-
 # About
 Passionate developer exploring the intersection of code and creativity.
 
@@ -36,7 +35,13 @@ Passionate developer exploring the intersection of code and creativity.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+# 📫 How to reach me: 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
