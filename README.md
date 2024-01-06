@@ -1,6 +1,6 @@
 ![Hi there! I am Lúcia!](header.png)
 
-# About
+# About Me
 Passionate developer exploring the intersection of code and creativity.
 <br>
 <br>
