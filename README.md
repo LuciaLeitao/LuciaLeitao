@@ -34,7 +34,8 @@ Passionate developer exploring the intersection of code and creativity.
 
 <br>
 <br>
-# 🔭 I’m currently working on ...
+#  🔭 I’m currently working on ...
+
 - MERN e-commerce app. [See project](https://github.com/LuciaLeitao/MERNlucia)
   
 <br>
