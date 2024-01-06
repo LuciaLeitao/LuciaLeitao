@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi there! I am Lúcia!](header.png)
 
 <!--
 **LuciaLeitao/LuciaLeitao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
