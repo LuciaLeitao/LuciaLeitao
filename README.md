@@ -2,6 +2,9 @@
 
 # About
 Passionate developer exploring the intersection of code and creativity.
+<br>
+<br>
+
 
 # Technologies
 
@@ -29,10 +32,13 @@ Passionate developer exploring the intersection of code and creativity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+<br>
+<br>
 # 🔭 I’m currently working on ...
 - MERN e-commerce app. [See project](https://github.com/LuciaLeitao/MERNlucia)
-  #
+  
+<br>
+<br>
 # 🌱 I’m currently learning ...
 - <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -48,10 +54,14 @@ Passionate developer exploring the intersection of code and creativity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
 </div>
 
-###
+<br>
+<br>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
+<br>
+<br>
 # 📫 How to reach me: 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucia-leitao/" target="_blank">
