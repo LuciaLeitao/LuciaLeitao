@@ -1,7 +1,16 @@
 ![Hi there! I am Lúcia!](header.png)
 
 # About Me
-Passionate developer exploring the intersection of code and creativity.
+
+🚀 Web Developer exploring the intersection of code and creativity.
+
+Hello! I'm Lúcia Leitão, a dedicated Web Developer currently interested in a professional project experience that progresses my career and also fosters an environment that promotes continuous learning.
+
+What Sets Me Apart:
+
+🎨 Design Fusion: I bring creativity and precision to projects, blending my background in Graphic and Digital Design.
+🎓 Continuous Learning: Keeping up with the latest web development methodologies, like Agile, is my thing.
+
 <br>
 <br>
 
