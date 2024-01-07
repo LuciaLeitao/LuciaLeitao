@@ -68,6 +68,7 @@ What Sets Me Apart:
         <li>JS</li>
         <ul>
         <li><a href="https://github.com/LuciaLeitao/KanbanApp">Project Repository</a> </li>
+          <li><a href="https://lucialeitao.github.io/KanbanApp/">Project >>Online</a> </li>
       </ul> 
       </ul>     
     </details>
