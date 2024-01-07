@@ -60,6 +60,16 @@ What Sets Me Apart:
       </ul> 
       </ul>     
     </details>
+   <details>
+        <summary>Pig Game</summary>
+        <u>Technologies:</u>
+      <ul>
+        <li>HTLM</li>
+        <li>CSS</li>
+        <li>JS</li>
+        <li><a href="https://github.com/LuciaLeitao/Pig_Game">See project Here!</a> </li>
+      </ul>   
+    </details>
 </section>
 
 <br>
@@ -79,16 +89,7 @@ What Sets Me Apart:
         <li><a href="https://github.com/LuciaLeitao/MERNlucia">See project Here!</a></li>
       </ul>        
     </details>
-    <details>
-        <summary>Pig Game</summary>
-        <u>Technologies:</u>
-      <ul>
-        <li>HTLM</li>
-        <li>CSS</li>
-        <li>JS</li>
-        <li><a href="https://github.com/LuciaLeitao/kabanApp">See project Here!</a> </li>
-      </ul>   
-    </details>
+   
 </section>
 
 
