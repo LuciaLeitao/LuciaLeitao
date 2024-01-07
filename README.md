@@ -46,7 +46,38 @@ What Sets Me Apart:
 
 #  🔭 I’m currently working on ...
 
-- MERN e-commerce app. [See project](https://github.com/LuciaLeitao/MERNlucia)
+<section>
+    <details>
+        <summary> Real Estate | E-commerce app</summary>
+      <u>Technologies:</u>
+      <ul>
+        <li>MERN</li>
+        <li><a href:"https://github.com/LuciaLeitao/MERNlucia">See project Here!</a> </li>
+      </ul>        
+    </details>
+    <details>
+        <summary>kanbanApp</summary>
+        <u>Technologies:</u>
+      <ul>
+        <li>HTLM</li>
+        <li>CSS</li>
+        <li>JS</li>
+        <li><a href:"https://github.com/LuciaLeitao/kabanApp">See project Here!</a> </li>
+      </ul>     
+    </details>
+    <details>
+        <summary>Pig Game</summary>
+        <u>Technologies:</u>
+      <ul>
+        <li>HTLM</li>
+        <li>CSS</li>
+        <li>JS</li>
+        <li><a href:"https://github.com/LuciaLeitao/kabanApp">See project Here!</a> </li>
+      </ul>   
+    </details>
+</section>
+
+
   
 <br>
 <br>
@@ -73,8 +104,7 @@ What Sets Me Apart:
 <div align="left">
   <a href="https://www.linkedin.com/in/lucia-leitao/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href = "mailto: lucialeitao85@gmail.com" target="_blank">
+  </a><a href = "mailto: lucialeitao85@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
  
 </div>
@@ -86,5 +116,7 @@ What Sets Me Apart:
 ###
 
 ###
+
+
 
 
