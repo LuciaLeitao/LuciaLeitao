@@ -82,6 +82,17 @@ What Sets Me Apart:
         <li><a href="https://lucialeitao.github.io/Pig_Game/">Project >>Online</a> </li>
       </ul>   
     </details>
+   <details>
+        <summary>Signup Form Component</summary>
+        <u>Technologies:</u>
+      <ul>
+        <li>HTLM</li>
+        <li>CSS</li>
+        <li>JS</li>
+        <li><a href="https://github.com/LuciaLeitao/signup_form">Project Repository</a> </li>
+        <li><a href="https://lucialeitao.github.io/signup_form/">Project >>Online</a> </li>
+      </ul>   
+    </details>
 </section>
 
 <br>
