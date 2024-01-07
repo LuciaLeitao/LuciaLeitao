@@ -61,7 +61,8 @@ What Sets Me Apart:
       </ul>     
     </details>
 </section>
-
+<br>
+<br>
 #  🔭 I’m currently working on ...
 
 <section>
