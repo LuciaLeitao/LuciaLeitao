@@ -51,11 +51,11 @@ What Sets Me Apart:
         <summary> Real Estate | E-commerce app</summary>
       <u>Technologies:</u>
       <ul>
-        <li>MERN</li>
-      </ul>        
-      <u>Project:</u>
-      <ul>
-        <li><a href="https://github.com/LuciaLeitao/MERNlucia">See project Here!</a> </li>
+        <li>MONGOdb</li>
+        <li>ExpressJS</li>
+        <li>React</li>
+        <li>NextJs</li>
+        <li><a href="https://github.com/LuciaLeitao/MERNlucia">See project Here!</a></li>
       </ul>        
     </details>
     <details>
@@ -65,7 +65,9 @@ What Sets Me Apart:
         <li>HTLM</li>
         <li>CSS</li>
         <li>JS</li>
-        <li>[See project Here!](https://github.com/LuciaLeitao/kabanApp)"></li>
+        <ul>
+        <li><a href="https://github.com/LuciaLeitao/MERNlucia">See project Here!</a> </li>
+      </ul> 
       </ul>     
     </details>
     <details>
@@ -75,7 +77,7 @@ What Sets Me Apart:
         <li>HTLM</li>
         <li>CSS</li>
         <li>JS</li>
-        <li><a href:"https://github.com/LuciaLeitao/kabanApp">See project Here!</a> </li>
+        <li><a href="https://github.com/LuciaLeitao/kabanApp">See project Here!</a> </li>
       </ul>   
     </details>
 </section>
