@@ -52,7 +52,10 @@ What Sets Me Apart:
       <u>Technologies:</u>
       <ul>
         <li>MERN</li>
-        <li><a href:"https://github.com/LuciaLeitao/MERNlucia">See project Here!</a> </li>
+      </ul>        
+      <u>Project:</u>
+      <ul>
+        <li><a href="https://github.com/LuciaLeitao/MERNlucia">See project Here!</a> </li>
       </ul>        
     </details>
     <details>
@@ -62,7 +65,7 @@ What Sets Me Apart:
         <li>HTLM</li>
         <li>CSS</li>
         <li>JS</li>
-        <li><a href:"https://github.com/LuciaLeitao/kabanApp">See project Here!</a> </li>
+        <li>[See project Here!](https://github.com/LuciaLeitao/kabanApp)"></li>
       </ul>     
     </details>
     <details>
