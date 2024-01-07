@@ -49,6 +49,17 @@ What Sets Me Apart:
 
 <section>
    <details>
+        <summary> Real Estate | E-commerce app</summary>
+      <u>Technologies:</u>
+      <ul>
+        <li>MONGOdb</li>
+        <li>ExpressJS</li>
+        <li>React</li>
+        <li>NextJs</li>
+        <li><a href="https://github.com/LuciaLeitao/MERNlucia">Project Repository</a></li>
+      </ul>        
+    </details>
+   <details>
         <summary>kanbanApp</summary>
         <u>Technologies:</u>
       <ul>
@@ -56,7 +67,7 @@ What Sets Me Apart:
         <li>CSS</li>
         <li>JS</li>
         <ul>
-        <li><a href="https://github.com/LuciaLeitao/KanbanApp">See project Here!</a> </li>
+        <li><a href="https://github.com/LuciaLeitao/KanbanApp">Project Repository</a> </li>
       </ul> 
       </ul>     
     </details>
@@ -67,8 +78,8 @@ What Sets Me Apart:
         <li>HTLM</li>
         <li>CSS</li>
         <li>JS</li>
-        <li><a href="https://github.com/LuciaLeitao/Pig_Game">Project Files!</a> </li>
-        <li><a href="https://lucialeitao.github.io/Pig_Game/">Project >> online</a> </li>
+        <li><a href="https://github.com/LuciaLeitao/Pig_Game">Project Repository</a> </li>
+        <li><a href="https://lucialeitao.github.io/Pig_Game/">Project >>online</a> </li>
       </ul>   
     </details>
 </section>
@@ -79,17 +90,7 @@ What Sets Me Apart:
  # 🔭 I’m currently working on ...
 
 <section>
-    <details>
-        <summary> Real Estate | E-commerce app</summary>
-      <u>Technologies:</u>
-      <ul>
-        <li>MONGOdb</li>
-        <li>ExpressJS</li>
-        <li>React</li>
-        <li>NextJs</li>
-        <li><a href="https://github.com/LuciaLeitao/MERNlucia">See project Here!</a></li>
-      </ul>        
-    </details>
+   
    
 </section>
 
