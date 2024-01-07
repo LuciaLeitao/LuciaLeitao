@@ -63,7 +63,7 @@ What Sets Me Apart:
 </section>
 <br>
 <br>
-#  🔭 I’m currently working on ...
+ # 🔭 I’m currently working on ...
 
 <section>
     <details>
