@@ -68,7 +68,7 @@ What Sets Me Apart:
         <li>CSS</li>
         <li>JS</li>
         <li><a href="https://github.com/LuciaLeitao/Pig_Game">See project Files!</a> </li>
-        <li><a href="https://github.com/LuciaLeitao/Pig_Game](https://lucialeitao.github.io/Pig_Game/">See project online!</a> </li>
+        <li><a href="https://lucialeitao.github.io/Pig_Game/">See project online!</a> </li>
       </ul>   
     </details>
 </section>
