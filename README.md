@@ -1,12 +1,13 @@
 ![Hi there! I am Lúcia!](header.png)
 
 # About Me
-
+<hr>
 🚀 Web Developer exploring the intersection of code and creativity.
 
 Hello! I'm Lúcia Leitão, a dedicated Web Developer currently interested in a professional project experience that progresses my career and also fosters an environment that promotes continuous learning.
 
 What Sets Me Apart:
+
 
 🎨 Design Fusion: I bring creativity and precision to projects, blending my background in Graphic and Digital Design.
 🎓 Continuous Learning: Keeping up with the latest web development methodologies, like Agile, is my thing.
@@ -16,7 +17,7 @@ What Sets Me Apart:
 
 
 # Technologies
-
+<hr>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -45,7 +46,7 @@ What Sets Me Apart:
 <br>
 
 #  🔭 I’m currently working on ...
-
+<hr>
 <section>
     <details>
         <summary> Real Estate | E-commerce app</summary>
@@ -88,6 +89,7 @@ What Sets Me Apart:
 <br>
 
 #  🌱 I’m currently learning ...
+<hr>
 - <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -106,6 +108,7 @@ What Sets Me Apart:
 <br>
 
 #  📫 How to reach me: 
+<hr>
 <div align="left">
   <a href="https://www.linkedin.com/in/lucia-leitao/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
