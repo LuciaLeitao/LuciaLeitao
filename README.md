@@ -79,7 +79,7 @@ What Sets Me Apart:
         <li>CSS</li>
         <li>JS</li>
         <li><a href="https://github.com/LuciaLeitao/Pig_Game">Project Repository</a> </li>
-        <li><a href="https://lucialeitao.github.io/Pig_Game/">Project >>online</a> </li>
+        <li><a href="https://lucialeitao.github.io/Pig_Game/">Project >>Online</a> </li>
       </ul>   
     </details>
 </section>
@@ -90,7 +90,15 @@ What Sets Me Apart:
  # 🔭 I’m currently working on ...
 
 <section>
-   
+    <details>
+        <summary>Keeper</summary>
+        <u>Technologies:</u>
+      <ul>
+        <li>REACT</li>
+        <li><a href="https://github.com/LuciaLeitao/KeeperApp">Project Repository</a> </li>
+        <!-- <li><a href="https://lucialeitao.github.io/KeeperApp/">Project >>Online</a> </li> -->
+      </ul>   
+    </details>
    
 </section>
 
