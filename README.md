@@ -4,7 +4,7 @@
 
 🚀 Web Developer exploring the intersection of code and creativity.
 
-Hello! I'm Lúcia Leitão, a dedicated Web Developer currently interested in a professional project experience that progresses my career and also fosters an environment that promotes continuous learning.
+Hello! I'm Lúcia Leitão, a dedicated Web Developer, interested in a professional experience that progresses my career and also fosters an environment that promotes continuous learning.
 
 What Sets Me Apart:
 
