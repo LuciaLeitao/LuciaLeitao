@@ -72,6 +72,17 @@ HTML5 | CSS | JavaScript | ReactJS PHP | REST APIs | MongoDB | ExpressJS | NodeJ
       </ul> 
       </ul>     
     </details>
+     <details>
+        <summary>To-Do App</summary>
+        <u>Technologies:</u>
+      <ul>
+        <li>REACT</li>
+        <li>CSS</li>
+        <li>JS</li>
+        <li><a href="https://github.com/LuciaLeitao/to-do-List">Project Repository</a> </li>
+      </ul>   
+    </details>
+  
    <details>
         <summary>Pig Game</summary>
         <u>Technologies:</u>
@@ -94,6 +105,7 @@ HTML5 | CSS | JavaScript | ReactJS PHP | REST APIs | MongoDB | ExpressJS | NodeJ
         <li><a href="https://lucialeitao.github.io/signup_form/">Project >>Online</a> </li>
       </ul>   
     </details>
+  
 </section>
 
 <br>
