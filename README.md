@@ -9,8 +9,8 @@ Hello! I'm Lúcia Leitão, a dedicated Web Developer, interested in a profession
 What Sets Me Apart:
 
 
-🎨 Design Fusion: I bring creativity and precision to projects, blending my background in Graphic and Digital Design.
-🎓 Continuous Learning: Keeping up with the latest web development methodologies, like Agile, is my thing.
+🎨 Design Fusion: I bring creativity and precision to projects, blending my background in Graphic and Digital Design. <br>
+🎓 Continuous Learning: Keeping up with the latest web development methodologies, like Agile, is my strength.
 
 <br>
 <br>
